@@ -1,0 +1,6 @@
+auto:
+  test:
+    resources:
+      datasources:
+        default:
+          url: jdbc:h2:mem:flywayDb-test;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=FALSE
