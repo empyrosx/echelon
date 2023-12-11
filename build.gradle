@@ -38,7 +38,7 @@ application {
     mainClass.set("com.github.empyrosx.echelon.ApplicationKt")
 }
 java {
-    sourceCompatibility = JavaVersion.toVersion("17")
+    sourceCompatibility = JavaVersion.toVersion("21")
 }
 
 
